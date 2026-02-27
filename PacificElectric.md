@@ -31,12 +31,14 @@ Here is an archive of the HO scale model trains in the Acosta collection of the 
 ## Box Motors
 1. PE Model 1407 [[Photo]](Figs/PEModel1407.JPEG)
 1. PE Model 1446 [[Photo]](Figs/PEModel1446.jpg)
-2. PE Model 1460 [[Photo]](Figs/PEModel1460.JPEG)
+1. PE Model 1456 [[Photo]](Figs/PEModel1456.jpg)
+2. 2. PE Model 1460 [[Photo]](Figs/PEModel1460.JPEG)
 3. PE Model 1465 Blimp [[Photo]](Figs/PEModel1465.JPEG)
 
 ## Misc. Trolleys
 1. PE Birney Model 343 [[Photo]](Figs/PEModel343.JPEG)
 2. Huntington's "Alabama" [[Photo]](Figs/Huntington-Alabama.JPEG)
+3. Los Angeles Railway (LARy) 2601 [[Photo]](Figs/LARy2601.JPEG)
 
 ## Electric Switchers
 1. PE Electra Model 1544 [[Photo]](Figs/PEModel1544.jpg)
