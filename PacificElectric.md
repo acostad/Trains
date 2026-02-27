@@ -17,7 +17,7 @@ Here is an archive of the HO scale model trains in the Acosta collection of the 
 
 
 ## Diesel Motors
-1. PE Diesel Model 1011 [[Photo]](Figs/PEModel1011.JPEG)
+1. PE Diesel Model 1011 [[Photo]](Figs/PEModel1011.jpg)
 
 ## Steam
 1. PE Steam Engine 0-6-0 Model 1507 [[Photo]](Figs/PE-Steam1507.JPEG)
