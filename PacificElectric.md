@@ -3,7 +3,7 @@
 Here is an archive of the HO scale model trains in the Acosta collection of the Pacific Electric Railway
 
 ## Interurbans
-1. PE Model 257 [[Photo]](Figs/PEModel57.JPEG)
+1. PE Model 257 [[Photo]](Figs/PEModel257.JPEG)
 1. PE Model 294 [[Photo]](Figs/PEModel294.JPEG)
 1. PE Model 414 [[Photo]](Figs/PEModel414.JPEG)
 1. PE Model 464 [[Photo]](Figs/PEModel464.JPEG)
