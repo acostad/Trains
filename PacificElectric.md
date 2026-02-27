@@ -6,6 +6,9 @@ Here is an archive of the HO scale model trains in the Acosta collection of the 
 1. PE Model 1001 [[Photo]](Figs/PEModel1001.jpg)
 
 ## Box Motors
+1. PE Model 1407 [[Photo]](Figs/PEModel1407.JPEG)
+2. PE Model 1460 [[Photo]](Figs/PEModel1460.JPEG)
+3. PE Model 1465 [[Photo]](Figs/PEModel1465.JPEG)
 
 ## Misc. Trolleys
 1. PE Birney Model 343 [[Photo]](Figs/PEModel343.JPEG)
