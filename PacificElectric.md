@@ -19,8 +19,7 @@ Here is an archive of the HO scale model trains in the Acosta collection of the 
 1. PE Model 656 [[Photo]](Figs/PEModel656.JPEG)
 1. PE Model 738 Hollywood [[Photo]](Figs/PEModel738.JPEG)
 2. PE Model 1144 [[Photo]](Figs/PEModel1144.JPEG)
-1. PE Model 1200 [[Photo]](Figs/PEModel1200.JPEG)
-1. PE Model 1209 San Berdoo Twelve [[Photo]](Figs/PEModel1209.JPEG)
+1. PE Model 1209 San Berdoo Twelve [[Photo1](Figs/PEModel1209.JPEG), [Photo2](Figs/PEModel1200.JPEG)]
 1. PE Model 1230 [[Photo]](Figs/PEModel1230.jpg)
 1. PE Model 1256 Parlor Car [[Photo]](Figs/PEModel1256.JPEG)
 1. PE Model 1299 [[Photo]](Figs/PEModel1299.JPEG)
