@@ -25,7 +25,7 @@ Here is an archive of the HO scale model trains in the Acosta collection of the 
 1. PE Model 1256 Parlor Car [[Photo]](Figs/PEModel1256.JPEG)
 1. PE Model 1299 [[Photo]](Figs/PEModel1299.JPEG)
 
-## PCC
+## PCC Streamliners
 1. PE Model 5007 [[Photo]](Figs/PEModel5007.JPEG)
 
 ## Box Motors
