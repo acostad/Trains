@@ -10,4 +10,4 @@ Here is an archive of the HO scale model trains in the Acosta collection of the 
 2. Huntington's "Alabama" [[Photo]](Figs/Huntington-Alabama.JPEG)
 
 ## Steam
-1. PE Steam Engine 0-6-0 Model 1507 [[Photo]](Figs/PESteam1507.JPEG)
+1. PE Steam Engine 0-6-0 Model 1507 [[Photo]](Figs/PE-Steam1507.JPEG)
