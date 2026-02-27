@@ -12,7 +12,7 @@ Here is an archive of the HO scale model trains in the Acosta collection of the 
 2. Huntington's "Alabama" [[Photo]](Figs/Huntington-Alabama.JPEG)
 
 ## Electric Switchers
-1. PE Switcher Model 1544
+1. PE Switcher Model 1544 [[Photo]](Figs/PEModel1544.jpg)
 2. PE Switcher Model 1624 [[Photo]](Figs/PEModel1624.JPEG)
 3. PE Switcher Model 1625 [[Photo]](Figs/PEModel1625.JPEG)
 
