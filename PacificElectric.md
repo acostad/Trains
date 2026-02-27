@@ -17,7 +17,7 @@ Here is an archive of the HO scale model trains in the Acosta collection of the 
 2. PE Model 1144 [[Photo]](Figs/PEModel1144.JPEG)
 1. PE Model 1200 [[Photo]](Figs/PEModel1200.JPEG)
 1. PE Model 1209 [[Photo]](Figs/PEModel1209.JPEG)
-1. PE Model 1230 [[Photo]](Figs/PEModel1200.JPEG)
+1. PE Model 1230 [[Photo]](Figs/PEModel1230.jpg)
 1. PE Model 1256 [[Photo]](Figs/PEModel1256.JPEG)
 1. PE Model 1299 [[Photo]](Figs/PEModel1299.JPEG)
 1. PE Model 1300 [[Photo]](Figs/PEModel1300.JPEG)
@@ -28,7 +28,7 @@ Here is an archive of the HO scale model trains in the Acosta collection of the 
 
 ## Box Motors
 1. PE Model 1407 [[Photo]](Figs/PEModel1407.JPEG)
-1. PE Model 1446 [[Photo]](Figs/PEModel1446.JPEG)
+1. PE Model 1446 [[Photo]](Figs/PEModel1446.jpg)
 2. PE Model 1460 [[Photo]](Figs/PEModel1460.JPEG)
 3. PE Model 1465 [[Photo]](Figs/PEModel1465.JPEG)
 
