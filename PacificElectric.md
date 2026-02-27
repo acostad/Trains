@@ -31,7 +31,7 @@ Here is an archive of the HO scale model trains in the Acosta collection of the 
 ## Box Motors
 1. PE Model 1407 [[Photo]](Figs/PEModel1407.JPEG)
 1. PE Model 1446 [[Photo]](Figs/PEModel1446.jpg)
-1. PE Model 1456 [[Photo]](Figs/PEModel1456.jpg)
+1. PE Model 1456 [[Photo]](Figs/PEModel1456.JPEG)
 2. PE Model 1460 [[Photo]](Figs/PEModel1460.JPEG)
 3. PE Model 1465 Blimp [[Photo]](Figs/PEModel1465.JPEG)
 
