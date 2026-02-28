@@ -38,6 +38,7 @@ Here is an archive of the HO scale model trains in the Acosta collection of the 
 1. PE Birney Model 343 [[Photo]](Figs/PEModel343.JPEG)
 2. Huntington's "Alabama" [[Photo]](Figs/Huntington-Alabama.JPEG)
 3. Los Angeles Railway (LARy) 2601 [[Photo]](Figs/LARy2601.JPEG)
+4. Wood Tower Car 00150 [[EdPhoto]](Figs/00150.jpg)
 
 ## Electric Switchers
 1. PE Electra Model 1544 [[Photo]](Figs/PEModel1544.jpg)
