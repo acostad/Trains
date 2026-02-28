@@ -13,7 +13,7 @@ Here is an archive of the HO scale model trains in the Acosta collection of the 
 2. PE Model 1001 [[Photo]](Figs/PEModel1001.jpg)
 1. PE Model 1044 [[Photo]](Figs/PEModel1044.JPEG)
 1. PE Model 1300 [[Photo]](Figs/PEModel1300.JPEG)
-1. PE Model 1362 [[Photo]](Figs/PEModel1362.JPEG)
+1. PE Model 1362 [[Photo1](Figs/PEModel1362.JPEG), [EdPhoto2](Figs/1362_1.jpg)]
 
 ## Interurbans
 1. PE Model 656 [[Photo]](Figs/PEModel656.JPEG)
