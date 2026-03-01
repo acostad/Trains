@@ -9,6 +9,7 @@ Here is an archive of the HO scale model trains in the Acosta collection of the 
 1. PE Model 464 Mt. Lowe Car [[Photo]](Figs/PEModel464.JPEG)
 1. PE Model 883 [[Photo]](Figs/PEModel883.JPEG)
 1. PE Model 890 [[Photo]](Figs/PEModel890.JPEG)
+1. PE Model 981 [[Photo]](Figs/PEModel981.JPEG)
 1. PE Model 1000 Commodore Business Car [[Photo1](Figs/PEModel1000.JPEG), [EdPhoto2](Figs/1000_7_edited.jpg)]
 2. PE Model 1001 "Ten" [[Photo1](Figs/PEModel1001.jpg), [Photo2](Figs/PEModel1001Ten.JPEG)]
 1. PE Model 1044 [[Photo]](Figs/PEModel1044.JPEG)
@@ -21,7 +22,8 @@ Here is an archive of the HO scale model trains in the Acosta collection of the 
 2. PE Model 1144 [[Photo]](Figs/PEModel1144.JPEG)
 1. PE Model 1209 San Berdoo Twelve [[Photo1](Figs/PEModel1209.JPEG), [Photo2](Figs/PEModel1200.JPEG)]
 1. PE Model 1230 [[Photo]](Figs/PEModel1230.jpg)
-1. PE Model 1256 Parlor Car [[Photo]](Figs/PEModel1256.JPEG)
+1. PE Model 1255 Portland Coach [[Photo]](Figs/PEModel1255.JPEG)
+1. PE Model 1256 Portland Parlor Car [[Photo]](Figs/PEModel1256.JPEG)
 1. PE Model 1299 [[Photo]](Figs/PEModel1299.JPEG)
 
 ## PCC Streamliners
