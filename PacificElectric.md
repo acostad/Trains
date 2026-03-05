@@ -41,7 +41,7 @@ Here is an archive of the HO scale model trains in the Acosta collection of the 
 2. Huntington's "Alabama" [[Photo]](Figs/Huntington-Alabama.JPEG)
 3. Los Angeles Railway (LARy) 2601 [[Photo]](Figs/LARy2601.JPEG)
 4. Wood Greaser Tower Car 00150 [[EdPhoto]](Figs/00150.jpg)
-5. Wood Tower Car 00157 [[EdPhoto]](Figs/PEModel00150.jpg)
+5. Wood Tower Car 00157 [[EdPhoto]](Figs/PEModel00157.JPEG)
 
 ## Electric Switchers
 1. PE Electra Model 1544 [[Photo]](Figs/PEModel1544.jpg)
