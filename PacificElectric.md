@@ -30,7 +30,7 @@ Here is an archive of the HO scale model trains in the Acosta collection of the 
 1. PE Model 5007 [[Photo]](Figs/PEModel5007.JPEG)
 
 ## Box Motors
-1. PE Model 498 Interurban Blimp Combine [[Photo1](Figs/PEModel498.JPEG),[Photo2](Figs/PEModel498B.JPEG)]]
+1. PE Model 498 Interurban Blimp Combine [[Photo1](Figs/PEModel498.JPEG),[Photo2](Figs/PEModel498B.JPEG)]
 2. PE Model 1407 [[Photo]](Figs/PEModel1407.JPEG)
 1. PE Model 1446 [[Photo]](Figs/PEModel1446.jpg)
 1. PE Model 1456 [[Photo]](Figs/PEModel1456.JPEG)
