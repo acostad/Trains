@@ -21,6 +21,7 @@ Here is an archive of the HO scale model trains in the Acosta collection of the 
 1. PE Model 738 Hollywood [[Photo]](Figs/PEModel738.JPEG)
 2. PE Model 1144 [[Photo]](Figs/PEModel1144.JPEG)
 1. PE Model 1209 San Berdoo Twelve [[Photo1](Figs/PEModel1209.JPEG), [Photo2](Figs/PEModel1200.JPEG)]
+1. PE Model 1216 [[Photo]](Figs/PEModel1216.JPEG)
 1. PE Model 1230 [[Photo]](Figs/PEModel1230.jpg)
 1. PE Model 1255 Portland Coach [[Photo]](Figs/PEModel1255.JPEG)
 1. PE Model 1256 Portland Parlor Car [[Photo]](Figs/PEModel1256.JPEG)
@@ -48,10 +49,12 @@ Here is an archive of the HO scale model trains in the Acosta collection of the 
 1. PE Electra Model 1544 [[Photo]](Figs/PEModel1544.jpg)
 2. PE Switcher Model 1624 [[Photo]](Figs/PEModel1624.JPEG)
 3. PE Switcher Model 1625 [[Photo]](Figs/PEModel1625.JPEG)
+4. PE Switcher Model 1654 [[Photo]](Figs/PEModel1654.JPEG)
 
 
 ## Diesel Motors
 1. PE Diesel Model 1011 [[Photo]](Figs/PEModel1011.jpg)
+2. PE Diesel Model 5203 [[Photo]](Figs/PEModel5203.JPEG)
 
 ## Steam
 1. PE Steam Engine 0-6-0 Model 1507 [[Photo]](Figs/PE-Steam1507.JPEG)
