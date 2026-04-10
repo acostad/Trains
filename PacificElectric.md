@@ -37,7 +37,8 @@ Here is an archive of the HO scale model trains in the Acosta collection of the 
 1. PE Model 1456 [[Photo]](Figs/PEModel1456.JPEG)
 2. PE Model 1460 [[Photo]](Figs/PEModel1460.JPEG)
 3. PE Model 1465 Blimp [[Photo]](Figs/PEModel1465.JPEG)
-
+1. PE Model 1401 Golden Gate RPO [[Photo]](Figs/PEModel1401.JPEG)
+   
 ## Misc. Trolleys
 1. PE Birney Model 343 [[Photo]](Figs/PEModel343.JPEG)
 2. Huntington's "Alabama" [[Photo]](Figs/Huntington-Alabama.JPEG)
