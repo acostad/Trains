@@ -29,6 +29,7 @@ Here is an archive of the HO scale model trains in the Acosta collection of the 
 
 ## PCC Streamliners
 1. PE Model 5007 [[Photo]](Figs/PEModel5007.JPEG)
+2. PE Model 5011 [[Photo]](Figs/PEModel5011.JPEG)
 
 ## Box Motors
 1. PE Model 498 Interurban Blimp Combine [[Photo1](Figs/PEModel498.JPEG), [Photo2](Figs/PEModel498B.JPEG)]
