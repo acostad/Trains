@@ -20,6 +20,7 @@ Here is an archive of the HO scale model trains in the Acosta collection of the 
 ## Interurbans
 1. PE Model 656 [[Photo]](Figs/PEModel656.JPEG)
 1. PE Model 738 Hollywood [[Photo]](Figs/PEModel738.JPEG)
+2. PE Model 1130 [[Photo]](Figs/PEModel1130.JPEG)
 2. PE Model 1144 [[Photo]](Figs/PEModel1144.JPEG)
 1. PE Model 1209 San Berdoo Twelve [[Photo1](Figs/PEModel1209.JPEG), [Photo2](Figs/PEModel1200.JPEG)]
 1. PE Model 1216 [[Photo]](Figs/PEModel1216.JPEG)
@@ -27,6 +28,8 @@ Here is an archive of the HO scale model trains in the Acosta collection of the 
 1. PE Model 1255 Portland Coach [[Photo]](Figs/PEModel1255.JPEG)
 1. PE Model 1256 Portland Parlor Car [[Photo]](Figs/PEModel1256.JPEG)
 1. PE Model 1299 [[Photo]](Figs/PEModel1299.JPEG)
+1. PE Model 1370 Interurban Combine [[Photo]](Figs/PEModel1370.JPEG)
+1. PE Model 1372 Portland Combine [[Photo]](Figs/PEModel1372.JPEG)
 
 ## PCC Streamliners
 1. PE Model 5007 [[Photo]](Figs/PEModel5007.JPEG)
