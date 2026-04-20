@@ -7,6 +7,7 @@ Here is an archive of the HO scale model trains in the Acosta collection of the 
 1. PE Model 294 [[Photo]](Figs/PEModel294.JPEG)
 1. PE Model 414 Niles [[Photo]](Figs/PEModel414.JPEG)
 1. PE Model 464 Mt. Lowe Car [[Photo]](Figs/PEModel464.JPEG)
+1. PE Model 536 [[Photo]](Figs/PEModel536.JPEG)
 1. PE Model 813 [[Photo]](Figs/PEModel813.JPEG)
 1. PE Model 883 [[Photo]](Figs/PEModel883.JPEG)
 1. PE Model 890 [[Photo]](Figs/PEModel890.JPEG)
@@ -36,7 +37,9 @@ Here is an archive of the HO scale model trains in the Acosta collection of the 
 2. PE Model 5011 [[Photo]](Figs/PEModel5011.JPEG)
 
 ## Box Motors
+1. PE Model 002 Box Motor [[Photo](Figs/PEModel002.JPEG)]
 1. PE Model 403 Interurban Blimp [[Photo](Figs/PEModel403.JPEG)]
+1. PE Model 434 Interurban Blimp [[Photo](Figs/PEModel434.JPEG)]
 1. PE Model 498 Interurban Blimp Combine [[Photo1](Figs/PEModel498.JPEG), [Photo2](Figs/PEModel498B.JPEG)]
 2. PE Model 1407 [[Photo]](Figs/PEModel1407.JPEG)
 1. PE Model 1446 [[Photo]](Figs/PEModel1446.jpg)
