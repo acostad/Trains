@@ -20,6 +20,8 @@ Here is an archive of the HO scale model trains in the Acosta collection of the 
 
 ## Interurbans
 1. PE Model 656 [[Photo]](Figs/PEModel656.JPEG)
+1. PE Model 652 [[Photo]](Figs/PEModel652.JPEG)
+1. PE Model 678 (connected to 652) [[Photo]](Figs/PEModel678.JPEG)
 1. PE Model 738 Hollywood [[Photo]](Figs/PEModel738.JPEG)
 2. PE Model 1130 [[Photo]](Figs/PEModel1130.JPEG)
 2. PE Model 1144 [[Photo]](Figs/PEModel1144.JPEG)
