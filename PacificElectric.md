@@ -9,7 +9,7 @@ Here is an archive of the HO scale model trains in the Acosta collection of the 
 1. PE Model 464 Mt. Lowe Car [[Photo](Figs/PEModel464.JPEG), [EdPhoto](Figs/EdModel464.jpg)]
 1. PE Model 536 [[Photo](Figs/PEModel536.JPEG), [EdPhoto](Figs/EdModel536.jpg)]
 1. PE Model 813 [[Photo](Figs/PEModel813.JPEG), [EdPhoto](Figs/EdModel813.jpg)]
-1. PE Model 883 [[Photo](Figs/PEModel883.JPEG), [EdPhoto](Figs/EdModel883.jpg)]
+1. PE Model 885 [[Photo](Figs/PEModel883.JPEG), [EdPhoto](Figs/EdModel885.jpg)]
 1. PE Model 890 [[Photo](Figs/PEModel890.JPEG), [EdPhoto](Figs/EdModel890.jpg)]
 1. PE Model 981 [[Photo](Figs/PEModel981.JPEG), [EdPhoto](Figs/EdModel981.jpg)]
 1. PE Model 1000 Commodore Business Car [[Photo1](Figs/PEModel1000.JPEG), [EdPhoto2](Figs/1000_7_edited.jpg)]
