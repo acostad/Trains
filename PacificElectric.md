@@ -4,7 +4,7 @@ Here is an archive of the HO scale model trains in the Acosta collection of the 
 
 ## Wood Interurbans
 1. PE Model 257 [[Photo1](Figs/PEModel257.JPEG), [EdPhoto2](Figs/257_3.jpg)]
-1. PE Model 294 [[Photo]](Figs/PEModel294.JPEG)
+1. PE Model 294 [[Photo](Figs/PEModel294.JPEG), [EdPhoto](Figs/EdModel294.jpg)]
 1. PE Model 414 Niles [[Photo]](Figs/PEModel414.JPEG)
 1. PE Model 464 Mt. Lowe Car [[Photo]](Figs/PEModel464.JPEG)
 1. PE Model 536 [[Photo]](Figs/PEModel536.JPEG)
