@@ -35,20 +35,20 @@ Here is an archive of the HO scale model trains in the Acosta collection of the 
 1. PE Model 1372 Portland Combine [[Photo](Figs/PEModel1372.JPEG), [EdPhoto](Figs/EdModel1372.jpg)]
 
 ## PCC Streamliners
-1. PE Model 5007 [[Photo]](Figs/PEModel5007.JPEG)
+1. PE Model 5007 [[Photo](Figs/PEModel5007.JPEG), [EdPhoto](Figs/EdModel5007.jpg)]
 2. PE Model 5011 [[Photo]](Figs/PEModel5011.JPEG)
 
 ## Box Motors
 1. PE Model 002 Box Motor [[Photo](Figs/PEModel002.JPEG), [EdPhoto](Figs/EdModel002.jpg)]
-1. PE Model 403 Interurban Blimp [[Photo](Figs/PEModel403.JPEG)]
-1. PE Model 434 Interurban Blimp [[Photo](Figs/PEModel434.JPEG)]
-1. PE Model 498 Interurban Blimp Combine [[Photo1](Figs/PEModel498.JPEG), [Photo2](Figs/PEModel498B.JPEG)]
-2. PE Model 1407 [[Photo]](Figs/PEModel1407.JPEG)
-1. PE Model 1446 [[Photo]](Figs/PEModel1446.jpg)
-1. PE Model 1456 [[Photo]](Figs/PEModel1456.JPEG)
-2. PE Model 1460 [[Photo]](Figs/PEModel1460.JPEG)
-3. PE Model 1465 Blimp [[Photo]](Figs/PEModel1465.JPEG)
-1. PE Model 1401 Golden Gate RPO [[Photo]](Figs/PEModel1401.JPEG)
+1. PE Model 403 Interurban Blimp [[Photo](Figs/PEModel403.JPEG), [EdPhoto](Figs/EdModel403.jpg)]
+1. PE Model 434 Interurban Blimp [[Photo](Figs/PEModel434.JPEG), [EdPhoto](Figs/EdModel434.jpg)]
+1. PE Model 498 Interurban Blimp Combine [[Photo1](Figs/PEModel498.JPEG), [Photo2](Figs/PEModel498B.JPEG), [EdPhoto](Figs/EdModel498.jpg)]]
+2. PE Model 1407 [[Photo](Figs/PEModel1407.JPEG), [EdPhoto](Figs/EdModel1407.jpg)]
+1. PE Model 1446 [[Photo](Figs/PEModel1446.jpg), [EdPhoto](Figs/EdModel1446.jpg)]
+1. PE Model 1456 [[Photo](Figs/PEModel1456.JPEG), [EdPhoto](Figs/EdModel1456.jpg)]
+2. PE Model 1460 [[Photo](Figs/PEModel1460.JPEG), [EdPhoto](Figs/EdModel1460.jpg)]
+3. PE Model 1465 Blimp [[Photo](Figs/PEModel1465.JPEG), [EdPhoto](Figs/EdModel1465.jpg)]
+1. PE Model 1401 Golden Gate RPO [[Photo](Figs/PEModel1401.JPEG), [EdPhoto](Figs/EdModel1401.jpg)]
    
 ## Misc. Trolleys
 1. PE Birney Model 343 [[Photo]](Figs/PEModel343.JPEG)
