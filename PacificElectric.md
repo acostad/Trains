@@ -13,10 +13,10 @@ Here is an archive of the HO scale model trains in the Acosta collection of the 
 1. PE Model 890 [[Photo](Figs/PEModel890.JPEG), [EdPhoto](Figs/EdModel890.jpg)]
 1. PE Model 981 [[Photo](Figs/PEModel981.JPEG), [EdPhoto](Figs/EdModel981.jpg)]
 1. PE Model 1000 Commodore Business Car [[Photo1](Figs/PEModel1000.JPEG), [EdPhoto2](Figs/1000_7_edited.jpg)]
-2. PE Model 1001 "Ten" [[Photo1](Figs/PEModel1001.jpg), [Photo2](Figs/PEModel1001Ten.JPEG)]
-1. PE Model 1044 [[Photo]](Figs/PEModel1044.JPEG)
-1. PE Model 1300 [[Photo]](Figs/PEModel1300.JPEG)
-1. PE Model 1362 [[Photo1](Figs/PEModel1362.JPEG), [EdPhoto2](Figs/1362_1.jpg)]
+2. PE Model 1001 "Ten" [[Photo1](Figs/PEModel1001.jpg), [Photo2](Figs/PEModel1001Ten.JPEG), [EdPhoto](Figs/EdModel1001.jpg)]
+1. PE Model 1044 [[Photo](Figs/PEModel1044.JPEG), [EdPhoto](Figs/EdModel1044.jpg)]
+1. PE Model 1300 [[Photo](Figs/PEModel1300.JPEG), [EdPhoto](Figs/EdModel1300.jpg)]
+1. PE Model 1362 [[Photo1](Figs/PEModel1362.JPEG), [EdPhoto2](Figs/1362_1.jpg), [EdPhoto](Figs/EdModel1362.jpg)]
 
 ## Interurbans
 1. PE Model 656 [[Photo]](Figs/PEModel656.JPEG)
