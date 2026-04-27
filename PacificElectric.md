@@ -35,7 +35,7 @@ Here is an archive of the HO scale model trains in the Acosta collection of the 
 1. PE Model 1372 Portland Combine [[Photo](Figs/PEModel1372.JPEG), [EdPhoto](Figs/EdModel1372.jpg)]
 
 ## PCC Streamliners
-1. PE Model 5007 [[Photo](Figs/PEModel5007.JPEG)]
+1. PE Model 5007 [[Photo](Figs/PEModel5007.JPEG),[EdPhoto](Figs/EdModel5007.jpg)]
 2. PE Model 5011 [[Photo]](Figs/PEModel5011.JPEG)
 
 ## Box Motors
