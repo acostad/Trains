@@ -19,20 +19,20 @@ Here is an archive of the HO scale model trains in the Acosta collection of the 
 1. PE Model 1362 [[Photo1](Figs/PEModel1362.JPEG), [EdPhoto2](Figs/1362_1.jpg), [EdPhoto](Figs/EdModel1362.jpg)]
 
 ## Interurbans
-1. PE Model 656 [[Photo]](Figs/PEModel656.JPEG)
+1. PE Model 656 [[Photo](Figs/PEModel656.JPEG), [EdPhoto](Figs/EdModel656.jpg)]
 1. PE Model 652 [[Photo]](Figs/PEModel652.JPEG)
-1. PE Model 678 (connected to 652) [[Photo]](Figs/PEModel678.JPEG)
-1. PE Model 738 Hollywood [[Photo]](Figs/PEModel738.JPEG)
-2. PE Model 1130 [[Photo]](Figs/PEModel1130.JPEG)
-2. PE Model 1144 [[Photo]](Figs/PEModel1144.JPEG)
-1. PE Model 1209 San Berdoo Twelve [[Photo1](Figs/PEModel1209.JPEG), [Photo2](Figs/PEModel1200.JPEG)]
-1. PE Model 1216 [[Photo]](Figs/PEModel1216.JPEG)
-1. PE Model 1230 [[Photo]](Figs/PEModel1230.jpg)
-1. PE Model 1255 Portland Coach [[Photo]](Figs/PEModel1255.JPEG)
-1. PE Model 1256 Portland Parlor Car [[Photo]](Figs/PEModel1256.JPEG)
-1. PE Model 1299 [[Photo]](Figs/PEModel1299.JPEG)
-1. PE Model 1370 Interurban Combine [[Photo]](Figs/PEModel1370.JPEG)
-1. PE Model 1372 Portland Combine [[Photo]](Figs/PEModel1372.JPEG)
+1. PE Model 678 (connected to 652) [[Photo](Figs/PEModel678.JPEG), [EdPhoto](Figs/EdModel678.jpg)]
+1. PE Model 738 Hollywood [[Photo](Figs/PEModel738.JPEG), [EdPhoto](Figs/EdModel738.jpg)]
+2. PE Model 1130 [[Photo](Figs/PEModel1130.JPEG), [EdPhoto](Figs/EdModel1130.jpg)]
+2. PE Model 1144 [[Photo](Figs/PEModel1144.JPEG), [EdPhoto](Figs/EdModel1144.jpg)]
+1. PE Model 1209 San Berdoo Twelve [[Photo1](Figs/PEModel1209.JPEG), [Photo2](Figs/PEModel1200.JPEG), [EdPhoto](Figs/EdModel1209.jpg)]
+1. PE Model 1216 [[Photo](Figs/PEModel1216.JPEG), [EdPhoto](Figs/EdModel1216.jpg)]
+1. PE Model 1230 [[Photo](Figs/PEModel1230.jpg), [EdPhoto](Figs/EdModel1230.jpg)]
+1. PE Model 1255 Portland Coach [[Photo](Figs/PEModel1255.JPEG), [EdPhoto](Figs/EdModel1255.jpg)]
+1. PE Model 1256 Portland Parlor Car [[Photo](Figs/PEModel1256.JPEG), [EdPhoto](Figs/EdModel1256.jpg)]
+1. PE Model 1299 [[Photo](Figs/PEModel1299.JPEG), [EdPhoto](Figs/EdModel1299.jpg)]
+1. PE Model 1370 Interurban Combine [[Photo](Figs/PEModel1370.JPEG), [EdPhoto](Figs/EdModel1370.jpg)]
+1. PE Model 1372 Portland Combine [[Photo](Figs/PEModel1372.JPEG), [EdPhoto](Figs/EdModel1372.jpg)]
 
 ## PCC Streamliners
 1. PE Model 5007 [[Photo]](Figs/PEModel5007.JPEG)
