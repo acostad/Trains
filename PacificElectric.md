@@ -61,12 +61,12 @@ Here is an archive of the HO scale model trains in the Acosta collection of the 
 1. PE Electra Model 1544 [[Photo](Figs/PEModel1544.jpg), [EdPhoto](Figs/EdModel1544.jpg)]
 2. PE Switcher Model 1624 [[Photo](Figs/PEModel1624.JPEG), [EdPhoto](Figs/EdModel1624.jpg)]
 3. PE Switcher Model 1625 [[Photo](Figs/PEModel1625.JPEG), [EdPhoto](Figs/EdModel1625.jpg)]
-4. PE Switcher Model 1654 [[Photo](Figs/PEModel1654.JPEG), [EdPhoto](Figs/EdModel624.jpg)]
+4. PE Switcher Model 1654 [[Photo](Figs/PEModel1654.JPEG)]
 
 
 ## Diesel Motors
 1. PE Diesel Model 1011 [[Photo]](Figs/PEModel1011.jpg)
-2. PE Diesel Model 5203 [[Photo]](Figs/PEModel5203.JPEG)
+2. PE Diesel Model 5203 [[Photo](Figs/PEModel5203.JPEG), [EdPhoto](Figs/EdModel5203.jpg)]
 3. SP Olympic diesel 7347 [[Photo](Figs/SPOlympic.JPEG), [Real thing](Figs/SPOlympic-real.JPEG)]
 
 ## Steam
