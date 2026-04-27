@@ -51,17 +51,17 @@ Here is an archive of the HO scale model trains in the Acosta collection of the 
 1. PE Model 1401 Golden Gate RPO [[Photo](Figs/PEModel1401.JPEG), [EdPhoto](Figs/EdModel1401.jpg)]
    
 ## Misc. Trolleys
-1. PE Birney Model 343 [[Photo]](Figs/PEModel343.JPEG)
-2. Huntington's "Alabama" [[Photo]](Figs/Huntington-Alabama.JPEG)
+1. PE Birney Model 343 [[Photo](Figs/PEModel343.JPEG), [EdPhoto](Figs/EdModel343.jpg)]
+2. Huntington's "Alabama" [[Photo](Figs/Huntington-Alabama.JPEG), [EdPhoto](Figs/EdModelAlabama.jpg)]
 3. Los Angeles Railway (LARy) 2601 [[Photo]](Figs/LARy2601.JPEG)
-4. Wood Greaser Tower Car 00150 [[EdPhoto]](Figs/00150.jpg)
-5. Wood Tower Car 00157 [[Photo]](Figs/PEModel00157.JPEG)
+4. Wood Greaser Tower Car 00150 [[EdPhoto](Figs/00150.jpg)]
+5. Wood Tower Car 00157 [[Photo](Figs/PEModel00157.JPEG), [EdPhoto](Figs/EdModel00157.jpg)]
 
 ## Electric Switchers
-1. PE Electra Model 1544 [[Photo]](Figs/PEModel1544.jpg)
-2. PE Switcher Model 1624 [[Photo]](Figs/PEModel1624.JPEG)
-3. PE Switcher Model 1625 [[Photo]](Figs/PEModel1625.JPEG)
-4. PE Switcher Model 1654 [[Photo]](Figs/PEModel1654.JPEG)
+1. PE Electra Model 1544 [[Photo](Figs/PEModel1544.jpg), [EdPhoto](Figs/EdModel1544.jpg)]
+2. PE Switcher Model 1624 [[Photo](Figs/PEModel1624.JPEG), [EdPhoto](Figs/EdModel1624.jpg)]
+3. PE Switcher Model 1625 [[Photo](Figs/PEModel1625.JPEG), [EdPhoto](Figs/EdModel1625.jpg)]
+4. PE Switcher Model 1654 [[Photo](Figs/PEModel1654.JPEG), [EdPhoto](Figs/EdModel624.jpg)]
 
 
 ## Diesel Motors
