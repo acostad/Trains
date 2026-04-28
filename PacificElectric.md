@@ -53,7 +53,7 @@ Here is an archive of the HO scale model trains in the Acosta collection of the 
 ## Misc. Trolleys
 1. PE Birney Model 343 [[Photo](Figs/PEModel343.JPEG), [EdPhoto](Figs/EdModel343.jpg)]
 2. Huntington's "Alabama" [[Photo](Figs/Huntington-Alabama.JPEG), [EdPhoto](Figs/EdModelAlabama.jpg)]
-3. Los Angeles Railway (LARy) 2601 [[Photo]](Figs/LARy2601.JPEG)
+3. Los Angeles Railway (LARy) 2601 [[Photo](Figs/LARy2601.JPEG), [EdPhoto](Figs/EdModelPERy7.jpg)]
 4. Wood Greaser Tower Car 00150 [[EdPhoto](Figs/00150.jpg)]
 5. Wood Tower Car 00157 [[Photo](Figs/PEModel00157.JPEG), [EdPhoto](Figs/EdModel00157.jpg)]
 
