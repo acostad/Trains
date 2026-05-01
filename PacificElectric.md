@@ -71,3 +71,4 @@ Here is an archive of the HO scale model trains in the Acosta collection of the 
 
 ## Steam
 1. PE Steam Engine 0-6-0 Model 1507 [[Photo](Figs/PE-Steam1507.JPEG), [EdPhoto](Figs/EdModel1507.jpg)]
+2. UP Steam 836 [[EdPhoto1](Figs/EdModelUP836A.jpg), [EdPhoto2](EdModelUP836B.jpg)]
