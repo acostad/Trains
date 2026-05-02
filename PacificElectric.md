@@ -73,4 +73,5 @@ Here is an archive of the HO scale model trains in the Acosta collection of the 
 1. PE Steam Engine 0-6-0 Model 1507 [[Photo](Figs/PE-Steam1507.JPEG), [EdPhoto](Figs/EdModel1507.jpg)]
 2. UP Steam Engine 4-8-4 Model 836 [[EdPhoto1](Figs/EdModelUP836A.jpg), [EdPhoto2](Figs/EdModelUP836B.jpg)]
 3. UP Steam Engine 4-6-6-4 Model 3978 [[EdPhoto1](Figs/EdModelUP3978A.jpg), [EdPhoto2](Figs/EdModelUP3978B.jpg)]
+4. UP Steam Rossi Bigboy 4-8-8-4 Model 4005 [[EdPhoto1](Figs/Rossi_bigboy.jpg)]
 
