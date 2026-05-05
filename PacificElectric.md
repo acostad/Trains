@@ -68,7 +68,7 @@ Here is an archive of the HO scale model trains in the Acosta collection of the 
 1. PE Diesel Model 1011 [[Photo](Figs/PEModel1011.jpg), [EdPhoto](Figs/EdModel1011.jpg)]
 2. PE Diesel Model 5203 [[Photo](Figs/PEModel5203.JPEG), [EdPhoto](Figs/EdModel5203.jpg)]
 3. SP Olympic diesel 7347 [[Photo](Figs/SPOlympic.JPEG),[ EdPhoto](Figs/EdModelSPOlympic.jpg), [Real thing](Figs/SPOlympic-real.JPEG)]
-4. SP Diesel Model 4603 [[Photo](Figs/SPModel4603.JPEG)]
+4. SP Diesel Model 4603 [[Photo](Figs/SP4603.JPEG)]
 
 ## Steam
 1. PE Steam Engine 0-6-0 Model 1507 [[Photo](Figs/PE-Steam1507.JPEG), [EdPhoto](Figs/EdModel1507.jpg)]
