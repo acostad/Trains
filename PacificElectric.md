@@ -26,7 +26,7 @@ Here is an archive of the HO scale model trains in the Acosta collection of the 
 2. PE Model 1130 [[Photo](Figs/PEModel1130.JPEG), [EdPhoto](Figs/EdModel1130.jpg)]
 2. PE Model 1144 [[Photo](Figs/PEModel1144.JPEG), [EdPhoto](Figs/EdModel1144.jpg)]
 1. PE Model 1209 San Berdoo Twelve [[Photo1](Figs/PEModel1209.JPEG), [Photo2](Figs/PEModel1200.JPEG), [EdPhoto](Figs/EdModel1209.jpg)]
-2. PE Model 1246 Long Beach Twelve and Sled
+2. PE Model 1246(T) Long Beach Twelve and Sled [[Photo1](Figs/PEModel1246.JPEG), [Photo2](Figs/PEModel1246T.JPEG)]
 1. PE Model 1216 [[Photo](Figs/PEModel1216.JPEG), [EdPhoto](Figs/EdModel1216.jpg)]
 1. PE Model 1230 [[Photo](Figs/PEModel1230.jpg), [EdPhoto](Figs/EdModel1230.jpg)]
 1. PE Model 1255 Portland Coach [[Photo](Figs/PEModel1255.JPEG), [EdPhoto](Figs/EdModel1255.jpg)]
